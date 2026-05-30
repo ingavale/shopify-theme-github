@@ -4214,6 +4214,3 @@ product-recommendations:has([data-has-recommendations='false']) {
   }
 }
 
-.header__underlay{
-  background: lightskyblue;
-}
